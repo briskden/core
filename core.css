@@ -126,7 +126,7 @@
         #app-mount .pageWrapper_a3a4ce,
         #app-mount .content_a4d4d9 .scroller_a39aa3 {
             background-color: transparent; 
-            background-image: none;
+            background-image: var(--transparency-2);
         }
 
         #app-mount .pageWrapper_a3a4ce .card_eb1ca6,
