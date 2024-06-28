@@ -1,21 +1,21 @@
-:root {
-    --background: url('https://images.alphacoders.com/632/632525.png');
-    --activetext-colour: white;
-
-    --primary1-colour: red;
-    --primary2-colour: rgba(255,0,0,0.5);
-    --primary3-colour: rgba(100,0,0,0.6);
-
-    --secondary1-colour: rgba(50,50,50,0.3);
-    --secondary2-colour: rgba(100,100,100,0.5);
-    --secondary3-colour: rgba(0,0,0,0.5);
-
-    --transparency-1: none; /* Change this line */
-    --transparency-2: none; /* Change this line */
-    --transparency-3: none;
-    --transparency-4: none;
-    --transparency-5: none;
-}
+:root{
+     --background: url('https://images.alphacoders.com/632/632525.png');
+     --activetext-colour: white;
+ 
+     --primary1-colour: red;
+     --primary2-colour: rgba(255,0,0,0.5);
+     --primary3-colour: rgba(100,0,0,0.6);
+ 
+     --secondary1-colour: rgba(50,50,50,0.3);
+     --secondary2-colour: rgba(100,100,100,0.5);
+     --secondary3-colour: rgba(0,0,0,0.5);
+ 
+     --transparency-1: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+     --transparency-2: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+     --transparency-3: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+     --transparency-4: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+     --transparency-5: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+ }
    
  /*
  Theme Owned and Made by VaporousCreeper#9514
@@ -126,7 +126,7 @@
         #app-mount .pageWrapper_a3a4ce,
         #app-mount .content_a4d4d9 .scroller_a39aa3 {
             background-color: transparent; 
-            background-image: var(--transparency-2);
+            background-image: var(--transparency-1);
         }
 
         #app-mount .pageWrapper_a3a4ce .card_eb1ca6,
