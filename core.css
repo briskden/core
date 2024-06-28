@@ -16,12 +16,6 @@
     --transparency-4: none;
     --transparency-5: none;
 }
-
-#app-mount .pageWrapper_a3a4ce,
-#app-mount .content_a4d4d9 .scroller_a39aa3 {
-    background-color: #333; /* Add this line */
-    background-image: none; /* Change this line */
-}
    
  /*
  Theme Owned and Made by VaporousCreeper#9514
@@ -132,7 +126,7 @@
         #app-mount .pageWrapper_a3a4ce,
         #app-mount .content_a4d4d9 .scroller_a39aa3 {
             background-color: transparent; 
-            background-image: var(--transparency-2);
+            background-image: none;
         }
 
         #app-mount .pageWrapper_a3a4ce .card_eb1ca6,
