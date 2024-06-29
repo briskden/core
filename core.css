@@ -224,7 +224,7 @@
             background-color: var(--primary1-colour)!important;
         }
 
-        #app-mount .unreadBar_c43953 {background-color: url('https://pixelbox.ru/wp-content/uploads/2021/10/banner-twitch-anime-pixelbox.ru-10-scaled.jpg')
+        #app-mount .unreadBar_c43953 {background-color: var(--secondary3-colour);}
 
         #app-mount .autocomplete_f23da8 {background-color: var(--secondary3-colour);}
 
