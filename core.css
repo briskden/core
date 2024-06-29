@@ -224,7 +224,7 @@
             background-color: var(--primary1-colour)!important;
         }
 
-        #app-mount .unreadBar_c43953 {background-color: var(--secondary2-colour);}
+        #app-mount .unreadBar_c43953 {background-color: none
 
         #app-mount .autocomplete_f23da8 {background-color: var(--secondary3-colour);}
 
@@ -877,7 +877,7 @@
         margin: 0px;
     }
     #app-mount .typeWindows_a934d8:after {
-        content: "GGO Kirito v1488 By Homyak";
+        content: "Kirito v14.88 By Homyak";
         color: rgb(255,255,255,0.5);
         font-weight: 500;
 
