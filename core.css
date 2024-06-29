@@ -15,7 +15,6 @@
      --transparency-3: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
      --transparency-4: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
      --transparency-5: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
-     --ping-color: #00BFFF;
  }
    
  /*
@@ -877,7 +876,7 @@
         margin: 0px;
     }
     #app-mount .typeWindows_a934d8:after {
-        content: "Kirito v14.88 By Homyak";
+        content: "GGO Kirito v1488 By Homyak";
         color: rgb(255,255,255,0.5);
         font-weight: 500;
 
